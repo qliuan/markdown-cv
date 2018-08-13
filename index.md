@@ -72,17 +72,14 @@ __Introduction to Database Systems__
 - built a web application solution using **node.js**, **vue.js** and **MySQL** database.
 
 
-
-
 ## Research Experiences
 
 `Jun-Aug 2017`
 __Undergraduate Research Opportunity Program HKUST - Machine Learning on Wearable Devices__
 
 
-- tried out major machine learning models using **Scikit-Learn** to anticipate people’s emotions based on their walking videos. 
-- designed and conducted the collection of emotion and video data while people walking. 
-- selected motion parameters and features to feed machine learning models using **caffe-yolo**.
+- utilized **caffe-yolo** for extracting human movements from their walking videos
+- tried out major machine learning models using **Scikit-Learn** to anticipate their emotions
  
 
 ## Skills
@@ -101,5 +98,3 @@ __Programming__
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
